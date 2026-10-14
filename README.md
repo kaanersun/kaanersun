@@ -1,6 +1,3 @@
-
-**kaanersun/kaanersun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Kaan Ersun
 
 Operator. Multi-time startup COO (Solvvy, acquired by Zoom; Durable), now running everything outside product and engineering at a Series A AI company.
